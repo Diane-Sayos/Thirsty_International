@@ -1,18 +1,18 @@
-#Project: Thirsty International
-##Deployed Link:
+# Project: Thirsty International
+## Deployed Link:
 
-###Language:
+### Language:
 Javascript
-###Frameworks:
+### Frameworks:
 Express.js
-###Libraries:
+### Libraries:
 React, Redux, Sequelize, Bcrypt
-###APIs:
+### APIs:
 Stripe
-###Tooling:
+### Tooling:
 Git, Node.js, Webpack, Babel
 
-##Description:
+## Description:
 An E-Commerce Platform that lets you buy exotic drinks found all over the world.
 We are currently carrying drinks from imported from the Philippines, China, Korea, Japan, and Mexico.
 Users are able to buy items and guest are able to view our products and add them to cart but need to create an account to checkout.
