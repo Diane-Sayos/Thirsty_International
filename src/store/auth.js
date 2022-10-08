@@ -34,13 +34,14 @@ export const login = (credentials) => {
     let response = await axios.post("/api/sessions", credentials);
     const { token } = response.data;
     window.localStorage.setItem("token", token);
-    response = await axios.get("/api/sessions", {
-      headers: {
-        authorization: token,
-      },
-    });
-    const auth = response.data;
-    dispatch({ auth, type: "SET_AUTH" });
+      response = await axios.get("/api/sessions", {
+        headers: {
+          authorization: token,
+        },
+      });
+      const auth = response.data;
+      console.log(auth)
+      dispatch({ auth, type: "SET_AUTH" });
   };
 };
 
