@@ -105,8 +105,8 @@ const setUp = async () => {
     //   description: faker.lorem.paragraph(1),
     //   price: faker.finance.amount(0.05, 20, 2),
     // });
-    await lucy.addToCart({ product: foo, quantity: 3 });
-    await lucy.addToCart({ product: bar, quantity: 4 });
+    // await lucy.addToCart({ product: foo, quantity: 3 });
+    // await lucy.addToCart({ product: bar, quantity: 4 });
 
     const products = await Promise.all([
       //'philippines'
