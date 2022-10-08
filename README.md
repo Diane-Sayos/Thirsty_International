@@ -1,6 +1,6 @@
 # Project: Thirsty International
 ## Deployed Link:
-
+https://thirsty-international.herokuapp.com/
 ### Language:
 Javascript
 ### Frameworks:
