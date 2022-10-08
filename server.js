@@ -95,16 +95,16 @@ const setUp = async () => {
       zipCode: faker.address.zipCode("#####"),
       isAdmin: true,
     });
-    const foo = await Product.create({
-      name: "foo",
-      description: faker.lorem.paragraph(1),
-      price: faker.finance.amount(0.05, 20, 2),
-    });
-    const bar = await Product.create({
-      name: "bar",
-      description: faker.lorem.paragraph(1),
-      price: faker.finance.amount(0.05, 20, 2),
-    });
+    // const foo = await Product.create({
+    //   name: "foo",
+    //   description: faker.lorem.paragraph(1),
+    //   price: faker.finance.amount(0.05, 20, 2),
+    // });
+    // const bar = await Product.create({
+    //   name: "bar",
+    //   description: faker.lorem.paragraph(1),
+    //   price: faker.finance.amount(0.05, 20, 2),
+    // });
     await lucy.addToCart({ product: foo, quantity: 3 });
     await lucy.addToCart({ product: bar, quantity: 4 });
 
