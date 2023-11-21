@@ -1,15 +1,14 @@
 # Project: Thirsty International
-## Deployed Link:
-https://thirsty-international.herokuapp.com/
-### Language:
+
+## Language:
 Javascript
-### Frameworks:
+## Frameworks:
 Express.js
-### Libraries:
+## Libraries:
 React, Redux, Sequelize, Bcrypt, JSON Web Tokens
-### APIs:
+## APIs:
 Stripe
-### Tooling:
+## Tooling:
 Git, Node.js, Webpack, Babel
 
 ## Description:
