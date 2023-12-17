@@ -1,18 +1,3 @@
-# Project: Thirsty International
-
-## Language:
-Javascript
-## Frameworks:
-Express.js
-## Libraries:
-React, Redux, Sequelize, Bcrypt, JSON Web Tokens
-## APIs:
-Stripe
-## Tooling:
-Git, Node.js, Webpack, Babel
-
-## Description:
-
 # Thirsty International
 
 <details>
