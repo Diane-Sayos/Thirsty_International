@@ -25,4 +25,4 @@
 
 
 ## Home Page
-![Screenshot](hlandingpage.png)
+![Screenshot](landingpage.png)
