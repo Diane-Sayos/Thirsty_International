@@ -1,2 +1,3 @@
 node_modules
 dist
+STRIPE_CARD = 4242 4242 4242 4242
