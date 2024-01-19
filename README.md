@@ -24,5 +24,32 @@
 </details>
 
 
-## Home Page
-![Screenshot](landingpage.png)
+## Landing Page
+![Screenshot](thirsty-landingpage.png)
+
+## Products Page
+![Screenshot](thirsty-productspage.png)
+
+## Users Page
+![Screenshot](thirsty-userspage.png)
+
+## Profile Page
+![Screenshot](thirsty-profile.png)
+
+## Update Credentials Functionality
+![Screenshot](thirsty-updatecredentials.png)
+
+## Update Profile Functionality
+![Screenshot](thirsty-updateprofile.png)
+
+## Cart Page
+![Screenshot](thirsty-cart.png)
+
+## Stripe Checkout Functionality
+![Screenshot](thirsty-checkout.png)
+
+## Stripe Cart List Functionality
+![Screenshot](thirsty-stripecartlist.png)
+
+## Stripe Successful Transaction Page
+![Screenshot](thirsty-stripesuccessful.png)
